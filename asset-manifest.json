@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/laundryBuddy/static/css/main.e6c13ad2.css",
+    "main.js": "/laundryBuddy/static/js/main.227e2b25.js",
+    "static/js/787.9edf5e86.chunk.js": "/laundryBuddy/static/js/787.9edf5e86.chunk.js",
+    "index.html": "/laundryBuddy/index.html",
+    "main.e6c13ad2.css.map": "/laundryBuddy/static/css/main.e6c13ad2.css.map",
+    "main.227e2b25.js.map": "/laundryBuddy/static/js/main.227e2b25.js.map",
+    "787.9edf5e86.chunk.js.map": "/laundryBuddy/static/js/787.9edf5e86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.227e2b25.js"
+  ]
+}
